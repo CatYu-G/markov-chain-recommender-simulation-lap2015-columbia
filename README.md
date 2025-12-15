@@ -36,11 +36,6 @@ This reveals a **non-monotonic trade-off** between diversity and engagement.
 ## Output
 
 Alpha | Entropy | Avg Rating | Stationary Distribution
- 0.0 | 1.6086 | 1.7954 | [0.209 0.202 0.207 0.188 0.194]
- 0.1 | 0.2969 | 2.5808 | [0.012 0.018 0.943 0.013 0.014]
- 0.3 | 0.6424 | 2.4872 | [0.033 0.056 0.845 0.033 0.034]
- 0.7 | 1.3475 | 2.1544 | [0.106 0.158 0.522 0.101 0.114]
- 1.0 | 1.5217 | 1.9936 | [0.15  0.174 0.38  0.148 0.147]
 
  
 
