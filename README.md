@@ -7,6 +7,9 @@ We model the sequence of recommended content categories as a **Markov chain**,
 estimate its transition matrix from simulation data, and analyze the **stationary distribution**
 and **entropy** to quantify filter-bubble effects.
 
+Group members: Justin Oketunmbi, Connie Ni, Fernando Woolcott, Justin Bates, Yu Gu
+
+
 ---
 
 ## Core Idea
