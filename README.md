@@ -34,5 +34,15 @@ This reveals a **non-monotonic trade-off** between diversity and engagement.
 ---
 
 ## Project Structure
+.
+├── main.py
+├── entropy_vs_alpha.png
+├── rating_vs_alpha.png
+└── report.pdf
 
+## How to Run
+
+```bash
+pip install numpy matplotlib
+python main.py
 
