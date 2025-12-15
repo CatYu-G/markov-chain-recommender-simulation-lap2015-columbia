@@ -37,7 +37,7 @@ This reveals a **non-monotonic trade-off** between diversity and engagement.
 
 Alpha | Entropy | Avg Rating | Stationary Distribution
 
-## Run the code and check it out by yourself
+## Run the code and check it out by yourself:)
 
  
 
